@@ -66,11 +66,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aloyadua&show_icons=true&locale=en&layout=compact&line_height=20&title_color=670f22&icon_color=670F22&text_color=101921&bg_color=F5F2E7" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguuel7&show_icons=true&locale=en&layout=compact&line_height=20&title_color=670f22&icon_color=670F22&text_color=101921&bg_color=F5F2E7" 
      width="375"  
      alt="Aloyadua"/>
 <a href="https://github.com/Aloyadua/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aloyadua&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=670F22&icon_color=670F22&text_color=101921&bg_color=F5F2E7" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguuel7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=670F22&icon_color=670F22&text_color=101921&bg_color=F5F2E7" 
        width="450"/>
 </a>
 
