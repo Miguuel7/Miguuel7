@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Aloyadua"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=18&duration=2500&pause=1000&color=FFD3D3DC&center=true&vCenter=true&width=435&lines=+%F0%9F%94%92+Bem-Vindo+Ao+Meu+Perfil!+%F0%9F%94%92;%F0%9F%8E%92+Estudo+no+Senac+Destrito+Criativo+%F0%9F%8E%92;...;%F0%9F%92%BE+Front-End+Developer+em+Progresso...+%F0%9F%92%BE" alt="Typing SVG" /></a>
+  <a href="https://github.com/Aloyadua"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=435&lines=%F0%9F%94%92+Bem-Vindo+Ao+Meu+Perfil!+%F0%9F%94%92;%F0%9F%8E%92+Estudo+no+Senac+Destrito+Criativo+%F0%9F%8E%92;%F0%9F%8E%92+Conta+acad%C3%AAmica+oficial+%F0%9F%8E%92;%F0%9F%92%BE+Front-End+Developer+em+Progresso...+%F0%9F%92%BE" alt="Typing SVG" /></a>
 </p>
 
 
