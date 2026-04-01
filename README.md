@@ -23,10 +23,15 @@
 
 <br>
 
-- 🚨 Meu Nome é Miguel 
-- 👋 Olá! Sou estudante de Full Stack em aprendizado.
-- 💻 Tenho conhecimento básico de C#, e estou explorando cada vez mais o mundo do desenvolvimento.
-- 🚀 Aqui compartilho meus estudos, experimentos e projetos pessoais enquanto evoluo minhas habilidades.
+## 👨‍💻 About me
+
+- 👋 Meu nome é Miguel  
+- 🎓 Estudante de Tecnologia no Senac Distrito Criativo  
+- 💻 Desenvolvedor em formação com foco em Front-End  
+- 🚀 Criando projetos com HTML, CSS e JavaScript  
+- ⚙️ Conhecimento básico em C# e explorando Java  
+- 🤖 Desenvolvimento de projetos com Arduino (C/C++)  
+- 📈 Em constante evolução, buscando transformar conhecimento em projetos reais  
 
 <br><br>
 
